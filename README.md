@@ -29,6 +29,8 @@ For Linux
 
 $ python3 Pdfencrypt.py
 
+![An encrypted PDF](https://a.top4top.io/p_2122p1b1s0.jpg)
+
 # Credits
 
 Anonyminhack5
