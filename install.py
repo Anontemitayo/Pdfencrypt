@@ -2,4 +2,7 @@ import os
 os.system("pip install pypdf2")
 os.system("pip install PyPDF2")
 os.system("clear")
-print("\033[1;32;40mType python Pdfencrypt.py ")
+if os.name == "Linux":
+	print(" Type Python3 Pdfencrypt.py")
+else:
+	print(" Type python Pdfencrypt.py")
